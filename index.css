@@ -1,0 +1,33 @@
+#navbar {
+    background-color: coral;
+    height: 10%;
+    opacity: 0.8;
+    border-top: solid;
+    border-width: 30px;
+    border-color: #103f22;
+    padding: 10px;
+}
+
+#title {
+  text-align: center;
+  color: burlywood;
+  font-family: Verdana;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#brewery-list{
+  background-color: palegoldenrod;;
+  padding: 10px;
+  margin: auto;
+
+}
+
+#collection-list {
+  background-color: palegreen;
+
+}
+
+body {
+  margin: 0;
+}
